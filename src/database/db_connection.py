@@ -1,10 +1,10 @@
 import mysql.connector
 
 DB_CONFIG={
-    'host' : '127.0.0.1',
-    'user' : 'root',
-    'password' : '',
-    'database' : 'pruebadb'
+    'host' : 'NSJA.mysql.pythonanywhere-services.com',
+    'user' : 'NSJA',
+    'password' : 'Prueba1234!',
+    'database' : 'NSJA$pruebadb'
     
 }
 
